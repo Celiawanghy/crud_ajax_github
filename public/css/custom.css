@@ -1,0 +1,57 @@
+.navbar {
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+html, body {
+    background-color: #d5d5d5 !important;
+}
+
+.nav-item:not(:last-child){
+    border-right: solid 1px #d5d5d5;
+}
+
+.nav-item {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.panel-body{
+    padding: 50px;
+}
+
+.btn-long {
+    float:right; 
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.borderless{
+    border: none !important;
+}
+
+.notice {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.pagination a, 
+.pagination span{
+    color: #428bca !important;
+    background-color: white;
+    border: solid grey 0.1px !important;
+    padding: 10px !important;
+}
+
+.pagination span{
+    background-color: #006dcc !important;
+    color: white !important;
+}
+
+.btn-link{
+    margin:  0px !important;
+    padding: 0px !important;
+}
